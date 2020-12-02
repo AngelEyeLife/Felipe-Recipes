@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Castoro:ital@0;1&display=swap");
+
+body {
+    font-family: "Castoro", sans-serif;
+}
+
+/*--------------------------Title*/
+
+#fire {
+  color: #ff0202;
+  text-shadow: 0px -2px 4px rgb(251, 255, 0), 0px -2px 10px #fbff00,
+    0px -10px 20px #ced108, 0px -20px 40px #c33;
+  font-size: 100px;
+}
+
+.maintitle {
+    text-align: center;
+}
+
+/*--------------------------Navigation bar*/
+
+.nav-link {
+  color: #fff;
+}
+
+.nav-item {
+  border-color: #330000;
+  margin-right: 10px;
+}
+
+.nav-link:hover {
+  color: rgb(246, 250, 1);
+}
+
+
+/*--------------------------Introduction sentence*/
+
+.intro {
+    
+}
+
+/*--------------------------Favorite Reciped*/
+
+.favrecipes-title {
+    color: #ff0000;
+}
+
+/*--------------------------Footer*/
+
+.social-links li a i {
+  color: #ff0000;
+  font-size: 25px;
+}
+
+.footer {
+    text-align: center;
+}
+
