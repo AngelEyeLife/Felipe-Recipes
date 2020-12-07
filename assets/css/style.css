@@ -16,14 +16,15 @@ body, html {
   font-size: 100px;
 }
 
+
 .maintitle {
     text-align: center;
 }
 
-/*--------------------------Navigation bar*/
+/*--------------------------Navigation bar
 
 .nav-link {
-  color: #fff;
+  color: rgb(3, 3, 3);
 }
 
 .nav-item {
@@ -33,6 +34,10 @@ body, html {
 
 .nav-link:hover {
   color: rgb(246, 250, 1);
+}*/
+
+.menu-home-color {
+    
 }
 
 
