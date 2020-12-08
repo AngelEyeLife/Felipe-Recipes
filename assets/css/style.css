@@ -80,10 +80,19 @@ body, html {
     text-shadow: 1px 1px #cc0000;  
 }
 
-/*--------------------------Favorite Reciped*/
+/*--------------------------Favorite Recipes*/
 
-.favrecipes-title {
-    color: #ff0000;
+.main-content {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+}
+
+.best-recipes {
+    color: #e60000;
+    text: bold;
+    font-size: 40px;
+    text-shadow: 1px 1px #000000;
 }
 
 /*--------------------------Footer*/
