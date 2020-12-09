@@ -2,7 +2,7 @@
 
 body, html {
     font-family: "Castoro", sans-serif;
-    background: url("../images/in-the-kitchen.jpg") center no-repeat;
+    background: url("../images/in-the-kitchen.jpg") center repeat;
     background-size: cover;
     height: 100%;
 }
@@ -95,11 +95,57 @@ body, html {
     text-shadow: 1px 1px #000000;
 }
 
+/*--------------------------Favorite Recipes Ragou*/
+
 .fav-raghou {
     padding-left: 80px;
     padding-right: 80px;
     padding-top: 20px;
 }
+
+.ragou {
+    padding-top: 3%;
+}
+
+.ragou-title {
+    font-weight: bold;
+    padding-left: 20px;
+    text-shadow: 1px 1px #e60000;
+}
+
+.ragou-main {
+    padding-left: 20px;
+    font-size: 22px;
+    color: #e60000;
+    text-shadow: 1px 1px #000000;
+}
+
+
+/*--------------------------Favorite Recipes Ragou*/
+
+.fav-pumpkin {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+}
+
+.pumpkin {
+    padding-top: 3%;
+}
+
+.pumpkin-title {
+    font-weight: bold;
+    padding-left: 20px;
+    text-shadow: 1px 1px #e60000;
+}
+
+.pumpkin-main {
+    padding-left: 20px;
+    font-size: 22px;
+    color: #e60000;
+    text-shadow: 1px 1px #000000;
+}
+
 
 /*--------------------------Footer*/
 
@@ -109,10 +155,11 @@ body, html {
 }
 
 .footer {
-    position: fixed;
+    position: bottom;
     bottom: 0;
     left: 0;
     width: 100%;
     height: 60px;
     text-align: center;
+    padding-top: 30px;
 }
