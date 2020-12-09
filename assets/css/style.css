@@ -95,6 +95,12 @@ body, html {
     text-shadow: 1px 1px #000000;
 }
 
+.fav-raghou {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+}
+
 /*--------------------------Footer*/
 
 .social-links li a i {
