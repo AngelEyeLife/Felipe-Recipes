@@ -71,6 +71,15 @@ body, html {
     color: #e6e600
 }
 
+/*--------------------------Main content spacing rule*/
+
+.main-content {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+}
+
+
 /*--------------------------Introduction sentence*/
 
 .small-intro {
@@ -84,11 +93,6 @@ body, html {
 
 /*--------------------------Favorite Recipes*/
 
-.main-content {
-    padding-left: 80px;
-    padding-right: 80px;
-    padding-top: 20px;
-}
 
 .best-recipes {
     color: #e60000;
@@ -146,6 +150,33 @@ body, html {
     font-size: 22px;
     color: #e60000;
     text-shadow: 1px 1px #000000;
+}
+
+/*--------------------------Contact Form*/
+
+.contact-title {
+    color: #e60000;
+    text: bold;
+    font-size: 40px;
+    text-shadow: 1px 1px #000000;
+}
+
+.contact-subtitle {
+    color: #d4ce1c;
+    text: bold;
+    text-shadow: 1px 1px #000000;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    color: #000000;
+    text: bold;
+    background-color: #ff0000;
+}
+
+form input,textarea {
+    margin-top: 20px;
 }
 
 
