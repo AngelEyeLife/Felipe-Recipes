@@ -96,18 +96,13 @@ body, html {
 
 .best-recipes {
     color: #e60000;
-    text: bold;
+    text-transform: bold;
     font-size: 40px;
     text-shadow: 1px 1px #000000;
 }
 
 /*--------------------------Favorite Recipes Ragou*/
 
-.fav-raghou {
-    padding-left: 80px;
-    padding-right: 80px;
-    padding-top: 20px;
-}
 
 .ragou {
     padding-top: 3%;
@@ -156,14 +151,14 @@ body, html {
 
 .contact-title {
     color: #e60000;
-    text: bold;
+    text-transform: bold;
     font-size: 40px;
     text-shadow: 1px 1px #000000;
 }
 
 .contact-subtitle {
     color: #d4ce1c;
-    text: bold;
+    text-transform: bold;
     text-shadow: 1px 1px #000000;
 }
 
@@ -171,7 +166,7 @@ button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 10px;
     color: #000000;
-    text: bold;
+    text-transform: bold;
     background-color: #ff0000;
 }
 
@@ -179,6 +174,26 @@ form input,textarea {
     margin-top: 20px;
 }
 
+
+/*--------------------------About Me*/
+
+.about-title {
+    color: #e60000;
+    text-shadow: 1px 1px #000000;
+    font-size: 60px;
+}
+
+.about-main {
+    color: #fff700;
+    text-shadow: 1px 1px #000000;
+    font-size: 20px;
+    text-align: center;
+}
+
+.about-images{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
 /*--------------------------Footer*/
 
