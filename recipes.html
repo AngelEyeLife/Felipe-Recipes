@@ -37,31 +37,52 @@
         </div>
     </div>
     <div class="row no-gutters main-content justify-content-center">
-        <div class="col-12 col-sm-6 col-lg-6">
-            <div id="carouselExampleDark" class="carousel carousel-dark slide carousel-fade" data-bs-ride="carousel">
-                <div class="carousel-inner">
-                    <div class="carousel-item active"  data-bs-interval="10000">
-                        <img src="assets/images/raghou-final.jpg" class="d-block w-100"
-                            alt="Tomato Ragou finished">
-                        <div class="carousel-caption d-none d-md-block">
-                            <h3>Tomato Ragou</h3>
-                            <p class="rec-exp">Simple vegan tomato sauce recipe</p>
-                        </div>
-                    </div>
-                    <div class="carousel-item"  data-bs-interval="10000">
-                        <img src="assets/images/Pumpkin-main.jpg" class="d-block w-100"
-                            alt="Pumpkin soup finished">
-                        <div class="carousel-caption d-none d-md-block">
-                            <h3>Pumpkin Soup</h3>
-                            <p class="rec-exp">Thick high on flavors and vegan</p>
-                        </div>
-                    </div>
+        <div class="col-12 col-sm-6 col-lg-6 text-center">
+            <h2 class="recipes-title">Recipes</h2>
+        </div>
+    </div>
+    <div class="row no-gutters main-content justify-content-center">
+        <div class="col-12 col-sm-6 col-lg-3">
+            <img src="assets/images/raghou-final.jpg" class="img-fluid" alt="Cooked tomatoe ragou final product">
+        </div>
+        <div class="col-12 col-sm-6 col-lg-6 ragou">
+            <h3 class="ragou-title">Tomato Ragout</h3>
+            <p class="recipe-main">A sauce made from 4 simple ingredients. Easy to make and vegan.</p>
+            <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                Click here for recipe.
+            </button>
+        </div>
+    </div>
+    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="staticBackdropLabel">Tomato Ragou</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <a class="carousel-control-prev" href="#carouselExampleDark" role="button" data-bs-slide="prev">
-                </a>
-                <a class="carousel-control-next" href="#carouselExampleDark" role="button" data-bs-slide="next">
-                </a>
+                <div class="modal-body">
+                    ...
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
             </div>
+        </div>
+    </div>
+    <div class="row no-gutters main-content justify-content-center">
+
+        <div class="col-12 col-sm-6 col-lg-6 ragou">
+            <h3 class="ragou-title">Pumpkin Soup</h3>
+            <p class="recipe-main text-right">A creamy, heavy and winter soup, with a lot of flavor. Easy to make and
+                vegan.</p>
+            <button type="button" class="btn btn-danger btn-left" data-bs-toggle="modal"
+                data-bs-target="#staticBackdrop">
+                Click here for recipe.
+            </button>
+        </div>
+        <div class="col-12 col-sm-6 col-lg-3">
+            <img src="assets/images/Pumpkin-main.jpg" class="img-fluid" alt="Cooked pumpkin soup final product">
         </div>
     </div>
     <footer class="row footer justify-content-center">

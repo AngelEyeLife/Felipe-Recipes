@@ -79,6 +79,10 @@ body, html {
     padding-top: 20px;
 }
 
+.text-right {
+    padding-right: 20px;
+}
+
 
 /*--------------------------Introduction sentence*/
 
@@ -114,7 +118,7 @@ body, html {
     text-shadow: 1px 1px #e60000;
 }
 
-.ragou-main {
+.ragou-review {
     padding-left: 20px;
     font-size: 22px;
     color: #e60000;
@@ -140,7 +144,7 @@ body, html {
     text-shadow: 1px 1px #e60000;
 }
 
-.pumpkin-main {
+.pumpkin-review {
     padding-left: 20px;
     font-size: 22px;
     color: #e60000;
@@ -206,6 +210,26 @@ form input,textarea {
 .rec-exp {
     font-size: 20px;
 }
+
+/*--------------------------Recipes2*/
+
+.recipes-title {
+    color: #e60000;
+    text-shadow: 1px 1px #000000;
+    font-size: 50px;
+}
+
+.recipe-main {
+    padding-left: 20px;
+    font-size: 22px;
+    color: #e60000;
+    text-shadow: 1px 1px #000000;
+}
+
+.btn-right {
+    text-align: right;
+}
+
 
 
 /*--------------------------Footer*/
