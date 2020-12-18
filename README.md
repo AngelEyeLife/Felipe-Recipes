@@ -48,6 +48,8 @@
     1. All footers links are working from the CONTACT page.
 ### Mobile view of the page
     1. All components of the webbsite are reacting how they should in a mobile view.
+### Validation of code
+* While using [CSS Validation Services](https://jigsaw.w3.org/css-validator/) encountered 3 errors regardding value error for text-transform.
 -------
 ## Deployment
 ### How to deploy to GitHub Pages

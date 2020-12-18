@@ -100,7 +100,6 @@ body, html {
 
 .best-recipes {
     color: #e60000;
-    text-transform: bold;
     font-size: 40px;
     text-shadow: 1px 1px #000000;
 }
@@ -155,14 +154,12 @@ body, html {
 
 .contact-title {
     color: #e60000;
-    text-transform: bold;
     font-size: 40px;
     text-shadow: 1px 1px #000000;
 }
 
 .contact-subtitle {
     color: #d4ce1c;
-    text-transform: bold;
     text-shadow: 1px 1px #000000;
 }
 
