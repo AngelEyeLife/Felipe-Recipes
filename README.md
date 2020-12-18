@@ -50,7 +50,24 @@
     1. All components of the webbsite are reacting how they should in a mobile view.
 -------
 ## Deployment
+### How to deploy to GitHub Pages
+1. To deploy this page to GitHub Pages from it [GitHub repository](https://github.com/AngelEyeLife/Felipe-Recipes), the following steps were taken:
+    1. Log into GitHub.
+    1. From the list of repositories on the screen, select **AngelEyeLife/Felipe-Recipes**.
+    1. From the menu items near the top of the page, select **Settings**.
+    1. Scroll down the the **GitHub Pages** section.
+    1. Under **Source** click the drop-down menu labelled **None** and selct **Master**.
+    1. On selcting Master Branch the page is automatically refreshed, the website is now deployed.
+    1. Scroll back down the the **GitHub Pages** section to retrieve the link to the deployed website.
 
+### How to run this project locally
+* To clone the project in to Gitpo you will need:
+    1. A GitHub account. [Create your GitHub account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+    1. Usee Chrome Browser, or open the [Gitpod page](https://gitpod.io/) directly.
+* Then follow these steps:
+    1. After creating a GitHub account navigate to the [Project repository](https://github.com/AngelEyeLife/Felipe-Recipes).
+    1. You click the green **Gitpod** button.
+    1. This will create a gitpod workspace, where you canmodify locally on the project.
 ------------
 ## Credits
 ### Content
