@@ -27,7 +27,7 @@
 ## Technologies Used
 1. [Bootstrap](https://getbootstrap.com/) Used their libraries and codes for components of my website.
 1. [Freeimages](https://www.freeimages.com/) The background image i used came from this site.
-1. [Codde Institute](https://github.com/Code-Institute-Org/gitpod-full-template) Used the full template from CI with emmet that helpedd me a lot while codding.
+1. [Code Institute](https://github.com/Code-Institute-Org/gitpod-full-template) Used the full template from CI with emmet that helpedd me a lot while codding.
 1. [Start Bootstrap](https://startbootstrap.com/) Helped me place my background image.
 ------------
 ## Testing
@@ -62,7 +62,7 @@
     1. On selcting Master Branch the page is automatically refreshed, the website is now deployed.
     1. Scroll back down the the **GitHub Pages** section to retrieve the link to the deployed website.
 
-### How to run this project locally
+### How to run this project online
 * To clone the project in to Gitpo you will need:
     1. A GitHub account. [Create your GitHub account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
     1. Usee Chrome Browser, or open the [Gitpod page](https://gitpod.io/) directly.
@@ -82,4 +82,4 @@
 * All other images are taken by me with Cellphone or a GoPro.
 ### Aknowleddgements
 * @Narender My mentor and helping me organize my ideas.
-* @Laimo helped me with img code in HTML for my first iimg added on the index page.
+* @Laimo helped me with img code in HTML for my first img added on the index page.

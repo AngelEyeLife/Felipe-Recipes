@@ -19,9 +19,7 @@ body, html {
 }
 
 
-.maintitle {
-    text-align: center;
-}
+
 
 /*--------------------------Navigation bar*/
 
@@ -49,8 +47,7 @@ body, html {
     
     text-align: center;
     padding: 0;
-    border-color: #000000;
-    border: solid;
+    
 }
 
 .menuitem a {
