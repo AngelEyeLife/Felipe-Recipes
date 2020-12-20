@@ -138,13 +138,8 @@ body, html {
 .contact-title {
     color: #e60000;
     font-size: 40px;
-    text-shadow: 1px 1px #000000;
 }
 
-.contact-subtitle {
-    color: #d4ce1c;
-    text-shadow: 1px 1px #000000;
-}
 
 button[type="submit"] {
     margin-top: 15px;
@@ -167,27 +162,21 @@ form input,textarea {
 }
 
 .about-main {
-    color: #fff700;
-    text-shadow: 1px 1px #000000;
     font-size: 20px;
-    text-align: center;
+}
+
+.aboutright {
+    text-align: right;
+}
+
+.aboutleft {
+    text-align: left;
 }
 
 .about-images{
     padding-top: 20px;
     padding-bottom: 20px;
     padding-right: 20px;
-}
-
-/*--------------------------Recipes*/
-
-.carousel-caption {
-    color: #fff700;
-    text-shadow: 1px 1px #000000;
-}
-
-.rec-exp {
-    font-size: 20px;
 }
 
 /*--------------------------Recipes2*/
@@ -201,12 +190,6 @@ form input,textarea {
 .recipe-main {
     padding-left: 20px;
     font-size: 22px;
-    color: #e60000;
-    text-shadow: 1px 1px #000000;
-}
-
-.btn-right {
-    text-align: right;
 }
 
 

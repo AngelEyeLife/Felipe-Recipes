@@ -1,4 +1,4 @@
-$(recipes.html).ready(function () {
+/*$(recipes.html).ready(function () {
 
     $('#openBtn').click(function () {
         $('#myModal').modal({
@@ -15,4 +15,4 @@ $(recipes.html).ready(function () {
         });
 
 
-});
+});*/
