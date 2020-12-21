@@ -179,7 +179,7 @@ form input,textarea {
     padding-right: 20px;
 }
 
-/*--------------------------Recipes2*/
+/*--------------------------Recipes*/
 
 .recipes-title {
     color: #e60000;
@@ -191,6 +191,9 @@ form input,textarea {
     padding-left: 20px;
     font-size: 22px;
 }
+
+/*--------------------------Modal Recipes*/
+
 
 
 
