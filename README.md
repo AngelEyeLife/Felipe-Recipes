@@ -13,7 +13,7 @@
 * [Main wireframe for the Project](https://github.com/AngelEyeLife/Felipe-Recipes/blob/master/wireframe/angels-recipes-wireframe.pdf)
 ---------
 ## Features
-### Existing Feautures
+### Existing Features
 1. In each page th user can see the title of the page and the 4 navigation options.
     1. In home page the user is able to see the best reviwed recipes.
     1. In about me page the user can learn about the creator of the site and the chef.
@@ -21,8 +21,8 @@
     1. the recipe page they can see a brief explanation of the recipe.
         1. From recipe page they open the recipe to see the ddetails on how to make it bby clicking on the bbutton.
 
-### Coming Feautures
-1. Adding short videos or gifs to the recipes for thee user to be able to see what the recipe is telling them to do.
+### Coming Features
+1. Adding short videos or gifs to the recipes for the user to be able to see what the recipe is telling them to do.
 ---------------
 ## Technologies Used
 1. [Bootstrap](https://getbootstrap.com/) Used their libraries and codes for components of my website.
@@ -57,7 +57,7 @@
     1. Log into GitHub.
     1. From the list of repositories on the screen, select **AngelEyeLife/Felipe-Recipes**.
     1. From the menu items near the top of the page, select **Settings**.
-    1. Scroll down the the **GitHub Pages** section.
+    1. Scroll down the **GitHub Pages** section.
     1. Under **Source** click the drop-down menu labelled **None** and selct **Master**.
     1. On selcting Master Branch the page is automatically refreshed, the website is now deployed.
     1. Scroll back down the the **GitHub Pages** section to retrieve the link to the deployed website.
@@ -79,7 +79,9 @@
 * All recipes have been made by me Felipe Angel.
 ### Media
 * The background photo I am using on all pages comes from [FreeImages.](https://www.freeimages.com/photo/in-the-kitchen-1327660)
-* All other images are taken by me with Cellphone or a GoPro.
+* All other images are taken by me with Cell phone or a GoPro.
 ### Aknowleddgements
 * @Narender My mentor and helping me organize my ideas.
 * @Laimo helped me with img code in HTML for my first img added on the index page.
+
+
