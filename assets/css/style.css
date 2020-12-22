@@ -2,11 +2,6 @@
 
 body, html {
     font-family: "Castoro", sans-serif;
-    background-image: url("../images/in-the-kitchen.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    height: 100%;
 }
 
 /*--------------------------Title*/
@@ -193,11 +188,6 @@ form input,textarea {
     font-size: 22px;
 }
 
-/*--------------------------Modal Recipes*/
-
-
-
-
 /*--------------------------Footer*/
 
 .social-links li a i {
@@ -219,4 +209,29 @@ form input,textarea {
 
 .white-background {
     background-color: rgba(238, 234, 234, 0.801);
+}
+
+
+/*--------------------------Background image animation*/
+
+
+.backgroundimg {
+    background-image: url(../images/in-the-kitchen.jpg);
+    position: relative;
+    background-size: 2700px 1500px;
+    overflow: hidden;
+    height: 100vh;
+    animation: img1 10s 10;
+}
+
+@keyframes img1 {
+    0% {
+        background-position: 0 0;
+    }
+    50% {
+        background-position: -100px 0;
+    }
+    100% {
+        background-position: 0 0;
+    }
 }

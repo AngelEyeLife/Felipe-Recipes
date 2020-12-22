@@ -14,12 +14,12 @@
 ---------
 ## Features
 ### Existing Features
-1. In each page th user can see the title of the page and the 4 navigation options.
+1. In each page the user can see the title of the page and the 4 navigation options.
     1. In home page the user is able to see the best reviwed recipes.
     1. In about me page the user can learn about the creator of the site and the chef.
-    1. The ccontact page is where the user can send questions or inquiaries.
+    1. The contact page is where the user can send questions or inquiaries.
     1. the recipe page they can see a brief explanation of the recipe.
-        1. From recipe page they open the recipe to see the ddetails on how to make it bby clicking on the bbutton.
+        1. From recipe page they open the recipe to see the details on how to make it bby clicking on the button.
 
 ### Coming Features
 1. Adding short videos or gifs to the recipes for the user to be able to see what the recipe is telling them to do.
@@ -77,6 +77,7 @@
 * My footer i was able to place it where i want from Chris Coyier author of this [article.](https://css-tricks.com/couple-takes-sticky-footer/)
 * The [title](https://codepen.io/nar3nd3r/pen/vYXBLmJ) is an original idea from Narender my mentor modified a llittle by me to fit page.
 * All recipes have been made by me Felipe Angel.
+* Backgroundimage animation was able to do it from [w3schools](https://www.w3schools.com/css/css3_animations.asp) and [@Igor Milenkovic](https://codepen.io/imilenig/pen/JxejbQ)
 ### Media
 * The background photo I am using on all pages comes from [FreeImages.](https://www.freeimages.com/photo/in-the-kitchen-1327660)
 * All other images are taken by me with Cell phone or a GoPro.
