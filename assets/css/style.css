@@ -220,7 +220,7 @@ form input,textarea {
     position: relative;
     background-size: 2700px 1500px;
     overflow: hidden;
-    height: 100vh;
+    height: 100%;
     animation: img1 10s 10;
 }
 
