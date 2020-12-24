@@ -79,7 +79,7 @@
 * All recipes have been made by me Felipe Angel.
 * Backgroundimage animation was able to do it from [w3schools](https://www.w3schools.com/css/css3_animations.asp) and [@Igor Milenkovic](https://codepen.io/imilenig/pen/JxejbQ)
 ### Media
-* The background photo I am using on all pages comes from [FreeImages.](https://www.freeimages.com/photo/in-the-kitchen-1327660)
+* The background photo I am using on all pages comes from [FreeImages.](https://www.freeimages.com/photo/flames-1-1174898)
 * All other images are taken by me with Cell phone or a GoPro.
 ### Aknowleddgements
 * @Narender My mentor and helping me organize my ideas.
