@@ -1,3 +1,4 @@
+![Am I responsive](assets/images/am-i-responsive.jpg)
 # F. Angel
 * This website is for anybody that is interested in the recipes that are shown here or wants to ask me an experiencee chef any specific questions or recipes. All recipes and described in detailed way so begginer cooks can make them without previous experience.
 
@@ -10,6 +11,23 @@
 * There are too many commecials or pop ups every time you open one on your phone or on pc. 
 * They write a big story about the recipe or where it came from and most of times is not clear when the actual reccicpe starts or what needs to be done, there is too much going around.
 * Giving a clear view of where are tyhe recipes and if the person is interested to learn about the chef there is an about me page.
+---------
+## Design
+### Fonts
+I chose to use [Castoro](https://fonts.google.com/specimen/Castoro?query=casto) for all my pages, only changing 2 main sentences on my [About Me](https://github.com/AngelEyeLife/Felipe-Recipes/blob/master/about-me.html) with the standard Sans-serif.
+### Colors
+I chose these colors for the Main title since it enphasizes heat or fire like in the kitchen: 
+
+![Title palette](assets/images/color-palette/fire-title.png)
+
+Choose this color for the navbar since it make sit stand out from the background:
+
+![Navbar palette](assets/images/color-palette/navbar-items.png)
+
+I like the titles to stand out more so is clear where you are on the page.
+
+![Title color](assets/images/color-palette/title-color.png)
+### Wireframes
 * [Main wireframe for the Project](https://github.com/AngelEyeLife/Felipe-Recipes/blob/master/wireframe/angels-recipes-wireframe.pdf)
 ---------
 ## Features
@@ -29,6 +47,16 @@
 1. [Freeimages](https://www.freeimages.com/) The background image i used came from this site.
 1. [Code Institute](https://github.com/Code-Institute-Org/gitpod-full-template) Used the full template from CI with emmet that helpedd me a lot while codding.
 1. [Start Bootstrap](https://startbootstrap.com/) Helped me place my background image.
+------------
+## Task Management
+- [x] Rremove the background from all pages.
+- [x] Stretch the modal.
+- [x] Spell check emphasize text, central align.
+- [x] Center contact page.
+- [x] Check if fontawesome works in the bottom of page.
+- [x] Include section for color and style of letter choice in README.md.
+- [] Include explanation of changes to the Wireframe and reasons why those changes happend.
+- [x] Change the hovering color to white and add line on the bottom.
 ------------
 ## Testing
 ### Contact page testing
@@ -78,10 +106,12 @@
 * The [title](https://codepen.io/nar3nd3r/pen/vYXBLmJ) is an original idea from Narender my mentor modified a llittle by me to fit page.
 * All recipes have been made by me Felipe Angel.
 * Backgroundimage animation was able to do it from [w3schools](https://www.w3schools.com/css/css3_animations.asp) and [@Igor Milenkovic](https://codepen.io/imilenig/pen/JxejbQ)
+* [Quoates](https://www.w3schools.com/w3css/w3css_quotes.asp) came from the [w3schools](https://www.w3schools.com/default.asp).
+* Used the [Am I responsive](http://ami.responsivedesign.is/#) website for head on [readme.md](README.md) page.
 ### Media
 * The background photo I am using on all pages comes from [FreeImages.](https://www.freeimages.com/photo/flames-1-1174898)
 * All other images are taken by me with Cell phone or a GoPro.
-### Aknowleddgements
+### Acknowledgements
 * @Narender My mentor and helping me organize my ideas.
 * @Laimo helped me with img code in HTML for my first img added on the index page.
 

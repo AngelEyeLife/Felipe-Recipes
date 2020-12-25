@@ -2,6 +2,11 @@
 
 body, html {
     font-family: "Castoro", sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
 }
 
 /*--------------------------Title*/
@@ -49,7 +54,8 @@ body, html {
 }
 
 .menuitem span:hover {
-    color: #ff0202
+    color: white;
+    text-decoration: underline;
 }
 
 /*--------------------------Main content spacing rule*/
@@ -124,13 +130,14 @@ body, html {
     color: #e60000;
     font-size: 40px;
     text-shadow: 1px 1px #000000;
+    text-align: center;
 }
 
 
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 10px;
-    color: #000000;
+    color: #ffd900;
     background-color: #ff0000;
 }
 
@@ -138,13 +145,8 @@ form input,textarea {
     margin-top: 20px;
 }
 
-.content {
+.contact-subtitle {
     text-align: center;
-}
-
-form {
-    text-align: center;
-    margin: 0 auto;
 }
 
 /*--------------------------About Me*/
@@ -156,7 +158,7 @@ form {
 }
 
 .about-main {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .about-right {
@@ -165,6 +167,7 @@ form {
 
 .about-left {
     text-align: left;
+    max-width: 80%;
 }
 
 .about-images{
@@ -201,12 +204,6 @@ form {
     text-align: center;
     padding-top: 30px;
     padding-bottom: 20px;
-}
-
-/*--------------------------Background for reading area*/
-
-.white-background {
-    background-color: rgba(238, 234, 234, 0.801);
 }
 
 /*--------------------------Background image animation*/
