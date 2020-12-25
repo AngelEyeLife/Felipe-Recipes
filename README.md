@@ -29,6 +29,38 @@ I like the titles to stand out more so is clear where you are on the page.
 ![Title colour](assets/images/color-palette/title-color.png)
 ### Wireframes
 * [Main wireframe for the Project](https://github.com/AngelEyeLife/Felipe-Recipes/blob/master/wireframe/angels-recipes-wireframe.pdf)
+#### Changes to Wireframes
+There were a lot of changes done to the wireframe in the process of making the website.
+
+Header for all pages and background changes:
+
+* The background change to a flame only, and to show only on the top with the title of the page and the navbar on the left side of the screen.
+* Title has been made like is on fire and also an animation was added to the background so it looks like it’s a live.
+* The navbar has been simplified to be only letter since I wanted to have more view on the background, and changing the colors to be easily seen on the background.
+* There was a discussion over the navbar, to make is all vertical or horizontal. I choose the vertical since it looks good on all platforms, and like to have that space in the middle.
+* The background is kept white for the rest of the page so the emphasis is on the food and recipes.
+Footer changes:
+
+* Decided to make only the social media side of the footer since is more of a personal site, and I want to share my ideas with everyone.
+* Content has been centered on the bottom of the page.
+
+Contact page:
+
+* The content has been centered on the page so on big screens it will always be easy to see and not a big white open space on one side.
+
+About me page:
+
+* Decided to put a chef picture of my self as to show me in uniform to make it more inviting.
+* The text has 2 sentences that have quotes and emphasis to make them stand out since those are the reason, I love cooking.
+
+Recipe page:
+
+* Diced to switch the list style recipe view to a simpler and with more impact on the user.
+* There are images that show the final product, and a small but simple description with it summarizing the recipe.
+* Decided to make it with modals: 
+    * This have been made larger do is easier to read the whole recipe without having to scroll so much on a page.
+    * There is again the final product picture on top of the modal.
+
 ---------
 ## Features
 ### Existing Features
@@ -49,13 +81,17 @@ I like the titles to stand out more so is clear where you are on the page.
 1. [Start Bootstrap](https://startbootstrap.com/) Helped me place my background image.
 ------------
 ## Task Management
+This list was made with the help of my mentor Narender, i wanted to make my last check list to make sure i covered all.
+
+- []Change Navbar to one line. 
+    * I decided to leave it as it is since I like the way it looks when it goes to smaller platforms, also leaving a nice space in the middle to see the flame moving.
 - [x] Remove the background from all pages.
 - [x] Stretch the modal.
 - [x] Spell check emphasize text, central align.
 - [x] Scenter contact page.
 - [x] Check if font awesome works in the bottom of page.
 - [x] Include section for colour and style of letter choice in README.md.
-- [] Include explanation of changes to the Wireframe and reasons why those changes happened.
+- [x] Include explanation of changes to the Wireframe and reasons why those changes happened.
 - [x] Change the hovering colour to white and add line on the bottom.
 ------------
 ## Testing
